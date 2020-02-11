@@ -12,8 +12,8 @@ Weather data is scraped from [Weather]( https://weather.com/en-IN/) and Timezone
 ### Requirements
 Python 3
 
-###Installation
+### Installation
 Fork and Clone the repository on your local machine. Creating a virtual enviornment is recommended. Then install the required modules by entering 
-    pip install requirements.txt
+```pip install requirements.txt```
 You can run the project by entering 
-    python main.py
+```python main.py```
